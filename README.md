@@ -40,15 +40,6 @@ I work on real-world products using **ESP32, STM32, Silicon Labs BLE MCUs, LoRa,
 
 ---
 
-## 💼 Experience Highlights
-
-- 🔧 Firmware development for **Woosh Air Quality Monitor** using ESP32, ESP-IDF, FreeRTOS, and state-machine architecture.
-- 📡 Developed BLE and IoT products using **ESP32** and **EFR32-BG22** low-power microcontrollers.
-- 🧪 Built an automated **PCB testing and firmware validation jig** using Raspberry Pi 5, reducing production testing effort by **80%**.
-- 🛰️ Worked on **LoRa**, industrial weighing systems, smart controllers, TFT UI, and FPGA-based data logger development.
-
----
-
 ## 📌 Selected Projects
 
 | Project | Focus |
