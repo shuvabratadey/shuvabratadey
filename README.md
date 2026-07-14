@@ -19,27 +19,6 @@ I work on real-world products using **ESP32, STM32, Silicon Labs BLE MCUs, LoRa,
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog_HDL-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeRTOS-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LVGL-343434?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
-  <img src="https://img.shields.io/badge/LoRa-6A0DAD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FPGA-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-</p>
-
----
-
 ## 📌 Selected Projects
 
 | Project | Focus |
